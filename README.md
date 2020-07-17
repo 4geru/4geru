@@ -2,9 +2,7 @@
   <li>I live in 🇯🇵</li>
   <li>I'm engineer 🖥️</li>
   <li>I'm diver 🌊</li>
-  <li>I like 🐼</li>
-  <li>I like 🍣</li>
-  <li>I like 🍺</li>
+  <li>I like 🐼, 🍣 and 🍺</li>
 </ul>
 <p align="center">
   <br />
@@ -14,3 +12,10 @@
     :coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/_4geru">Twitter</a>
   </samp>
 </p>
+
+<h3>accounts</h3>
+<ul>
+  <li><a href="https://www.npmjs.com/~a4geru">npmjs.com/a4geru</a></li>
+  <li><a href="https://rubygems.org/profiles/a4geru">rubygems.org/a4geru</a></li>
+</ul>
+
