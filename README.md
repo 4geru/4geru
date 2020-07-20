@@ -17,5 +17,8 @@
 <ul>
   <li><a href="https://www.npmjs.com/~a4geru">npmjs.com/a4geru</a></li>
   <li><a href="https://rubygems.org/profiles/a4geru">rubygems.org/a4geru</a></li>
+  <li><a href="https://qiita.com/4geru">qiita/4geru</a></li>
+  <li><a href="https://speakerdeck.com/4geru">speakerdeck.com/4geru</a></li>
+  <li><a href="https://atcoder.jp/users/uchi">atcoder/uchi</a></li>
 </ul>
 
