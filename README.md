@@ -6,18 +6,8 @@
   <li>I like 🐼, 🍣 and 🍺</li>
 </ul>
 
-![4geru's github stats](https://github-readme-stats.vercel.app/api?username=4geru&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4geru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  <br />
-  <img src="https://media0.giphy.com/media/ieaUdBJJC19uw/200.webp?cid=ecf05e4778f03a6aaa69ff1c40552312b4213d2ed4e51f84&rid=200.webp" width="200px">
-  <br />
-  <samp>
-    :coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/_4geru">Twitter</a>
-  </samp>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4geru&hide=html)
+![4geru's github stats](https://github-readme-stats.vercel.app/api?username=4geru&show_icons=true&count_private=true&line_height=40)
 
 <h3>accounts</h3>
 <ul>
@@ -27,3 +17,12 @@
   <li><a href="https://speakerdeck.com/4geru">speakerdeck.com/4geru</a></li>
   <li><a href="https://atcoder.jp/users/uchi">atcoder/uchi</a></li>
 </ul>
+
+<p align="center">
+  <br />
+  <img src="https://media0.giphy.com/media/ieaUdBJJC19uw/200.webp?cid=ecf05e4778f03a6aaa69ff1c40552312b4213d2ed4e51f84&rid=200.webp" width="200px">
+  <br />
+  <samp>
+    :coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/_4geru">Twitter</a>
+  </samp>
+</p>
